@@ -16,6 +16,9 @@ Ao implementar esse sistema, é crucial seguir os princípios **SOLID** para gar
 Você deve implementar o sistema de gerenciamento de funcionários seguindo esses princípios.
 Certifique-se de documentar suas classes e métodos adequadamente e fornecer exemplos de uso para demonstrar como seu sistema é utilizado.
 
+
+https://www.youtube.com/watch?v=mkx0CdWiPRA
+
 Após finalizar a atividade deverá ser entregue atravéz do link:
 
 [https://classroom.github.com/a/WbDVu_0_](https://classroom.github.com/a/WbDVu_0_)
