@@ -21,4 +21,8 @@ https://www.youtube.com/watch?v=mkx0CdWiPRA
 
 Após finalizar a atividade deverá ser entregue atravéz do link:
 
-[https://classroom.github.com/a/WbDVu_0_](https://classroom.github.com/a/WbDVu_0_)
+- Colocar o código no github;
+- Faça um fork desse repositório;
+- Coloque o código criado na pasta aulas/08-04-24/<nomes>;
+- Crie um arquivo *.md com o nome dos autores;
+- Após, crie uma Pull Request para o repositório atual;
