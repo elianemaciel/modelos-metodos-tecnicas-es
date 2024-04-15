@@ -28,3 +28,5 @@ Analise o texto do caso e:
 - Liste e descreve os requisitos funcionais.
 - Liste e descreva os requisitos não funcionais
 - Liste e descreva as regras de negócio.
+
+  Link para envio da atividade: https://forms.office.com/r/fc7MC1Yv9W
