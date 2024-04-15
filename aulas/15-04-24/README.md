@@ -21,6 +21,7 @@ Internamente o sistema deve ser modularizado e leg√≠vel, permitindo uma manuten√
 Usando o template disponibilizado no link:
 
 https://github.com/elianemaciel/modelos-metodos-tecnicas-es/blob/master/aulas/15-04-24/03.1%20-%20Engenharia%20de%20Requisitos%20-%20Pr%C3%A1tica%201%20-%20Parte%201.docx
+
 Analise o texto do caso e:
 
 
