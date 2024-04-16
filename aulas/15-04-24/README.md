@@ -30,3 +30,16 @@ Analise o texto do caso e:
 - Liste e descreva as regras de negócio.
 
   Link para envio da atividade: https://forms.office.com/r/fc7MC1Yv9W
+
+### Parte 2
+
+A empresa ACME solicitou as seguintes mudanças:
+
+- Adicionar PIX 
+- Boletos devem ser a vista e possibilitar a configuração de desconto.
+- Cartão de crédito pode ser parcelado.
+- Parametrizar o parcelamento com juros e sem juros pelo gerente (Exemplo Todos os produtos podem ser em 10 x sem juros;  Ou escolher um produto em específico; Pagamento com juros em até 24 x e adicionar o valor dos juros em % e realizar o cálculo)
+- O sistema deve atender o processamento de pelo menos 3000 transações simultâneas.
+- Ampliar as vendas por meio de um App, permitindo assim o auto cadastro e venda sem o intermédio do atendente. Para isso é necessário adicionar o cadastro de email.
+- A validação do cadastro se dá pela senha gerada e enviada para o email criado, cliente pode preferir que a senha seja enviada via sms.
+
