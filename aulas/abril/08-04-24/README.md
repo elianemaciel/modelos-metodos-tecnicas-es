@@ -4,7 +4,6 @@
 
 ### Agenda:
 
-- 
 - Arquitetura de Sistemas
 - SOLID
 - [Prática SOLID](pratica-SOLID.md)
