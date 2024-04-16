@@ -35,15 +35,15 @@ https://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-c
 
 ## Cronograma
 
-| DATA          | Descrição     | Link |
-| ------------- | ------------- |      |
-| 18/03/2024    |               |      |
-| 25/03/2024    |   |      |
-| 01/04/2024    | Acoplamento e Coesão | [slides](/modelos-metodos-tecnicas-es/aulas/abril/1-04-24/aula-010324.pdf)   |
-| 08/04/2024    |  Online - Conceitos SOLID | [slides](/modelos-metodos-tecnicas-es/aulas/abril/08-04-24/README.md)     |
-| 15/04/2024    | Requisitos de Software |  [conteudo](/modelos-metodos-tecnicas-es/aulas/abril/15-04-24/README.md)    |
-| 22/04/2024    |  |      |
-| 29/04/2024    |   |      |
+| DATA          | Descrição                | Link                                            |
+| ------------- | -------------            | ------------------------------------------      |
+| 18/03/2024    |                          |                                                 |
+| 25/03/2024    |                          |                                                 |
+| 01/04/2024    | Acoplamento e Coesão     | [slides](aulas/abril/1-04-24/aula-010324.pdf)   |
+| 08/04/2024    |  Online - Conceitos SOLID| [slides](aulas/abril/08-04-24/README.md)        |
+| 15/04/2024    | Requisitos de Software   |  [conteudo](aulas/abril/15-04-24/README.md)     |
+| 22/04/2024    |                          |                                                 |
+| 29/04/2024    |                          |                                                 |
 
 
 </details>
