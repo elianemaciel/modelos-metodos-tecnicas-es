@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "typescript",
+			"tsconfig": "modelos-metodos-tecnicas-es/topic-4/design-patterns/exemplo-factory-ts/tsconfig.json",
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"label": "tsc: build - modelos-metodos-tecnicas-es/topic-4/design-patterns/exemplo-factory-ts/tsconfig.json"
+		}
+	]
+}
