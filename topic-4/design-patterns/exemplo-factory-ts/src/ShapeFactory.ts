@@ -10,7 +10,7 @@ export default class ShapeFactory {
         } else if (shapeType === 'RECTANGLE') {
             return new Rectangle();
         } else if (shapeType === 'SQUARE') {
-            return new Square();
+            return new Square(5);
         }
         return null;
     }
