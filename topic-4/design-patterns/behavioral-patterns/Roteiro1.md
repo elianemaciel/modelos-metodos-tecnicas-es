@@ -1,3 +1,7 @@
+## Roteiro - Prática Iterator
+
+![image](https://github.com/elianemaciel/modelos-metodos-tecnicas-es/assets/7025421/a9f6ec1a-8d3c-49fd-a1ef-ec975f7b237d)
+
 - Crie interfaces. Iterator.java
 
 ```
@@ -14,7 +18,7 @@ public interface Container {
 - Crie uma classe concreta implementando a interface Container . Esta classe tem a classe interna NameIterator implementando a interface Iterator.
 
 ```
-public class Name Repository implements Container {
+public class NameRepository implements Container {
   public String nomes[] = {"Robert", "John", "Julie", "Lora"}
 
   @Override
@@ -27,14 +31,34 @@ public class Name Repository implements Container {
 
     @Override
     public boolean hasNext() {
-      // faça a implementação
+      if (index < names.length){
+          return true;
+      }
+      return false;
     }
 
     @Override
     public Object next() {
-      // faça a implementação
+       if(this.hasNext()) {
+          return names[index++];
+       }
+       return null;
     }
   }
 }
 ```
+
+- Use o NameRepository para obter o iterador e os nomes de impressão.
+
+  ```
+  public class IteratorPatternDemo {
+      public staticvoid main(String[] args) {
+          NameRepository namesRepository = new NameRepository();
+          for (Iterator iter = namesRepository.getIterator(); iter.hasNext();) {
+              String name = (String)iter.next();
+              System.out.println("Name : " + name);
+          }
+      }
+  }
+  ```
 
