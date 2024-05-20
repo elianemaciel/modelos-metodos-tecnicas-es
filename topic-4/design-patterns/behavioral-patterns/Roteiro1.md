@@ -2,8 +2,8 @@
 
 ```
 public interface Iterator {
-  public boolean hasNext
-  public Object next
+  public boolean hasNext()
+  public Object next()
 }
 
 public interface Container {
@@ -17,7 +17,7 @@ public interface Container {
 public class Name Repository implements Container {
   public String nomes[] = {"Robert", "John", "Julie", "Lora"}
 
-  Override
+  @Override
   public Iterator getIterator {
     return new NameIterator
   }
@@ -25,9 +25,15 @@ public class Name Repository implements Container {
   private class NameIterator implements Iterator {
     int index;
 
-    override
-    public boolean hasNext
-    public Object next
+    @Override
+    public boolean hasNext() {
+      // faça a implementação
+    }
+
+    @Override
+    public Object next() {
+      // faça a implementação
+    }
   }
 }
 ```
